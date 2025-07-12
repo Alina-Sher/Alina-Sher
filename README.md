@@ -7,7 +7,7 @@
   <img src="https://github.com/Alina-Sher/Alina-Sher/blob/main/banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm Aleena Sher 👋</h1>
+<h1 align="center">Hi there, I'm Alina Sher 👋</h1>
 
 <p align="center">
   💻 Passionate about coding | 🔍 Data Analyst | 🌐 Web Developer
@@ -39,6 +39,6 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/alina-sher-12b30b270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
