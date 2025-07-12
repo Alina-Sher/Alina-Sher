@@ -4,13 +4,13 @@
 **Alina-Sher/Alina-Sher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p align="center">
-  <img src="https://github.com/Alina-Sher/Alina-Sher/blob/main/banner.png.png" alt="Banner" width="100%" />
+  <img src="https://github.com/Alina-Sher/Alina-Sher/blob/main/banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Aleena Sher 👋</h1>
 
 <p align="center">
-  💻 Passionate about coding | 🔍 Exploring AI & Cybersecurity | 🌐 Web Developer
+  💻 Passionate about coding | 🔍 Data Analyst | 🌐 Web Developer
 </p>
 
 ---
