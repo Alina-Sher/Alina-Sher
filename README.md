@@ -4,7 +4,7 @@
 **Alina-Sher/Alina-Sher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p align="center">
-  <img src="https://www.canva.com/design/DAGs7VlNnVY/LfbmMnP5KM0XPsPJd-Y16Q/view?utm_content=DAGs7VlNnVY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc259f1ec69" alt="Banner" width="100%" />
+  <img src="https://github.com/Alina-Sher/Alina-Sher/blob/main/banner.png.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Aleena Sher 👋</h1>
